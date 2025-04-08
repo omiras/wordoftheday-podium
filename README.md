@@ -2,7 +2,7 @@
 
 Cierto formador ha decidido poner a disposición de todo aquel que quiera consultarlo, el ranking actualizado del número de veces que cada alumno ha acertado la palabra del día.
 
-El proceso es el siguiente: cada dia se actualiza un [fichero CSV](https://www.youtube.com/watch?v=SaHIUR9jIPY) con la información de los alumnos y sus palabras adivinadas. Se ha creado una API que ofrece esta información para cualquier cliente que quiera consultarla.
+El proceso es el siguiente: cada dia se actualiza un [fichero CSV](https://www.youtube.com/watch?v=SaHIUR9jIPY) con la información de los alumnos y sus palabras adivinadas. Se ha creado una API que ofrece esta información para cualquier cliente que quiera consultarla. La API siempre devuelve la lista de alumnos ordenaad de forma decreciente por los veces que han ganado el juego.
 
 En esta [Web](https://score-word-of-the-dat.onrender.com/) podemos encontrar la manera que tenemos para acceder a dicha información
 

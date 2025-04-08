@@ -14,7 +14,7 @@ En esta [Web](https://score-word-of-the-dat.onrender.com/) podemos encontrar la 
 
 ## BONUS
 
-1. Crea una lista completa mostrando la relación de palabras adivinadas por cada alumno/a.
+1. Crea una lista completa mostrando la relación de palabras adivinadas por cada alumno/a. Puedes hacer una tabla en HTML, que debe contener tantas filas como resultados devuelve la llamada a la API
 
 ### Creaciónde la API
 
